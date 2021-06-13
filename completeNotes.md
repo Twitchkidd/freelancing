@@ -1,10 +1,10 @@
 # Freelance Client Lifecycle - Complete Notes
 
-> Go from gathering the requirements to deploying the website and handing it off to fixing bugs!
+> Go from gathering the requirements to deploying the website and fixing bugs!
 
 ## 1. Gathering Requirements
 
-Often you want to get started designing or building the thing, because that's what you do, but failing to get the requirements right leads to more change requests, scope creep, and botched jobs!
+Often you want to just get started designing or building the thing, because that's what you do, but failing to get the requirements right leads to more change requests, scope creep, and botched jobs!
 
 :fire: You get burned if you don't ask the client enough questions! :fire:
 
@@ -18,7 +18,7 @@ Often you want to get started designing or building the thing, because that's wh
 
 <!-- ... Waitt, no ... but keep going. -->
 
-:checkbox: Asl the client about website/apps they like/dislike.
+:checkbox: Ask the client about website/apps they like/dislike.
 
 $ This is the point to ask the client about their budget!
 
